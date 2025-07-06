@@ -12,7 +12,7 @@ This space brings together all my personal projects, certifications, and ways to
   - [Summer Product Sales Performance](https://github.com/vibhav-rai/SummerProductSalesPerformance)
   - [Designing Bank Marketing Database](https://github.com/vibhav-rai/DesigningBankMarketingDatabase)
   - [Exploring Bitcoin CryptoCurrency Market](https://github.com/vibhav-rai/ExploringBitcoinCryptoCurrencyMarket/tree/main)
-  - [Tableau](https://public.tableau.com/app/profile/vibhavrai/vizzes)
+  - [Tableau Visualizations](https://public.tableau.com/app/profile/vibhavrai/vizzes)
 
 ## Education 🎓
 Vellore Institute of Technology - B.E, 2016-2020
