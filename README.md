@@ -22,6 +22,7 @@ Vellore Institute of Technology - B.E, 2016-2020
 - [Supervised Machine Learning: Regression and Classification, StanfordOnline- Coursera](https://www.coursera.org/account/accomplishments/verify/3BDDUJRSGA4G)
 - [Data Engineer, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/78804ea8cf8021a4d23bdbb0d91181deef7b9f02)
 - [Data Analyst in Tableau, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/bda914d7dd7cc5041a52118ecae318dfa5b9e3b3)
+- [McKinsey Forward Program](https://www.credly.com/badges/54f79956-ecdb-47c6-918c-7908069485c6/public_url)
 - [Google Data Analytics, Google- Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/PFE6HQM4YD5C)
 - [Pandas, Kaggla](https://www.kaggle.com/learn/certification/vibhavrai/pandas)
 - [Advanced SQL, Kaggle](https://www.kaggle.com/learn/certification/vibhavrai/advanced-sql)
