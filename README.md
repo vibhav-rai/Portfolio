@@ -20,7 +20,7 @@ Vellore Institute of Technology - B.E, 2016-2020
 ## Certificates 🏅
 - [Machine Learning with Python, IBM- Coursera](https://www.coursera.org/account/accomplishments/verify/S6HJ495YJ2QX)
 - [Supervised Machine Learning: Regression and Classification, StanfordOnline- Coursera](https://www.coursera.org/account/accomplishments/verify/3BDDUJRSGA4G)
-- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/84ZL9YFLPFRC)
+- [Advanced Learning Algorithms, StanfordOnline- Coursera](https://www.coursera.org/account/accomplishments/verify/84ZL9YFLPFRC)
 - [Data Engineer, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/78804ea8cf8021a4d23bdbb0d91181deef7b9f02)
 - [Data Analyst in Tableau, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/bda914d7dd7cc5041a52118ecae318dfa5b9e3b3)
 - [McKinsey Forward Program](https://www.credly.com/badges/54f79956-ecdb-47c6-918c-7908069485c6/public_url)
