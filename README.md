@@ -8,6 +8,7 @@ This space brings together all my personal projects, certifications, and ways to
 
 ## Projects 🚧
   - [Walmart Sales Analysis](https://github.com/vibhav-rai/WalmartSalesAnalysis/blob/main/walmart-sales-analysis.ipynb)
+  - [House Price Prediction](https://github.com/vibhav-rai/HousePricePrediction/blob/main/housingpriceprediction.ipynb)
   - [Video Game Sales Data](https://github.com/vibhav-rai/VideoGameSalesData)
   - [Summer Product Sales Performance](https://github.com/vibhav-rai/SummerProductSalesPerformance)
   - [Designing Bank Marketing Database](https://github.com/vibhav-rai/DesigningBankMarketingDatabase)
