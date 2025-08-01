@@ -7,8 +7,9 @@ Over the years, I’ve had the opportunity to work across major banks and financ
 This space brings together all my personal projects, certifications, and ways to get in touch.
 
 ## Projects 🚧
-  - [Walmart Sales Analysis](https://github.com/vibhav-rai/WalmartSalesAnalysis/blob/main/walmart-sales-analysis.ipynb)
+  - [Telco Customer Churn Prediction](https://github.com/vibhav-rai/TelcoCustomerChurnPrediction/blob/main/telcocustomerchurnprediction.ipynb)
   - [House Price Prediction](https://github.com/vibhav-rai/HousePricePrediction/blob/main/housingpriceprediction.ipynb)
+  - [Walmart Sales Analysis](https://github.com/vibhav-rai/WalmartSalesAnalysis/blob/main/walmart-sales-analysis.ipynb)
   - [Video Game Sales Data](https://github.com/vibhav-rai/VideoGameSalesData)
   - [Summer Product Sales Performance](https://github.com/vibhav-rai/SummerProductSalesPerformance)
   - [Designing Bank Marketing Database](https://github.com/vibhav-rai/DesigningBankMarketingDatabase)
