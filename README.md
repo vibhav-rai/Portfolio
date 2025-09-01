@@ -7,6 +7,7 @@ Over the years, I’ve had the opportunity to work across major banks and financ
 This space brings together all my personal projects, certifications, and ways to get in touch.
 
 ## Projects 🚧
+  - [Credit Card Fraud Detection](https://github.com/vibhav-rai/CreditCardFraudDetection/blob/main/creditcardfrauddetection.ipynb)
   - [Telco Customer Churn Prediction](https://github.com/vibhav-rai/TelcoCustomerChurnPrediction/blob/main/telcocustomerchurnprediction.ipynb)
   - [House Price Prediction](https://github.com/vibhav-rai/HousePricePrediction/blob/main/housingpriceprediction.ipynb)
   - [Walmart Sales Analysis](https://github.com/vibhav-rai/WalmartSalesAnalysis/blob/main/walmart-sales-analysis.ipynb)
