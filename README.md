@@ -7,6 +7,7 @@ Over the years, I’ve had the opportunity to work across major banks and financ
 This space brings together all my personal projects, certifications, and ways to get in touch.
 
 ## Projects 🚧
+  - [Quora Question Pairs](https://github.com/vibhav-rai/QuoraQuestionPairs/blob/main/quora_question_pair_clean.ipynb)
   - [Credit Card Fraud Detection](https://github.com/vibhav-rai/CreditCardFraudDetection/blob/main/creditcardfrauddetection.ipynb)
   - [Telco Customer Churn Prediction](https://github.com/vibhav-rai/TelcoCustomerChurnPrediction/blob/main/telcocustomerchurnprediction.ipynb)
   - [House Price Prediction](https://github.com/vibhav-rai/HousePricePrediction/blob/main/housingpriceprediction.ipynb)
@@ -34,7 +35,7 @@ Vellore Institute of Technology - B.E, 2016-2020
 - [Finance Foundtions, NASBA- Linkedin Learning](https://www.linkedin.com/learning/certificates/fefc93542031dcab6ae8bb2a13b0dce29325989f3840cd1f5574868d08ccaaf4?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BYPb84F7HTD6gNHJUS6PXxA%3D%3D)
 
 ## Tech 🛠️
-- Python, SQL, PySpark, Data Science, ML Algorithms, Big Data & Distributed Systems, Git, AWS, Tableau
+- Python, SQL, PySpark, PyTorch, Data Science, ML Algorithms, NLP, Hugging Face Transformers, GenAI, Big Data & Distributed Systems, Git, AWS, Tableau
 
 ## Contacts 📫
 - LinkedIn: [Vibhav-Rai](https://www.linkedin.com/in/rai-vibhav/)
