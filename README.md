@@ -1,10 +1,15 @@
-# Portfolio 💼
-## Hi, I'm Vibhav Rai — a Data Enthusiast with 5+ years of experience turning raw data into real impact.
+# Portfolio 🧑🏻‍💻
+## Hi, I'm Vibhav Rai, a Data Enthusiast with 5+ years of experience turning raw data into real impact.
 With a degree from VIT and over half a decade of hands-on experience working with data, I specialize in transforming complex datasets into clear, actionable insights. Whether it's solving real-world business problems, uncovering hidden patterns, or simply exploring data for the joy of discovery. I'm always eager to dive in and make data meaningful.
 
 Over the years, I’ve had the opportunity to work across major banks and financial institutions, handling large-scale, transactional, and highly sensitive datasets. My journey has taken me through all three key phases of the data lifecycle - starting as a Data Engineer, evolving into a Data Analyst, and now working as a Data Scientist. This end-to-end exposure has equipped me with a strong foundation in building data pipelines, generating actionable insights, and applying advanced analytics to drive strategic decisions.
 
 This space brings together all my personal projects, certifications, and ways to get in touch.
+
+## Work Experience 💼
+- Senior Data Scientist (Citi)
+- Data Analyst (American Express)
+- Software Engineer (London Stock Exchange Group)
 
 ## Projects 🚧
   - [Quora Question Pairs](https://github.com/vibhav-rai/QuoraQuestionPairs/blob/main/quora_question_pair_clean.ipynb)
